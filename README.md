@@ -2,10 +2,9 @@
 Ini adalah isi kolom deskripsi.
 
 Daftar hari dalam 1 minggu:
-  Senin
+  Senin adalah hari ke 1
   Selasa
   Rabu
   Kamis
   Jumat
   Sabtu
-  Minggu
