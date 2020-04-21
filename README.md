@@ -1,10 +1,3 @@
 # Percobaan1
 Ini adalah isi kolom deskripsi.
-
-Daftar hari dalam 1 minggu:
-  Senin adalah hari ke 1
-  Selasa
-  Rabu
-  Kamis
-  Jumat
-  Sabtu
+Hello world!
